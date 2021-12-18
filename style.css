@@ -1,0 +1,24 @@
+.heading {
+    font-size: large;
+}
+.head {
+    font-size: 17px;
+    color: rgb(199, 3, 107);
+    font-weight: 650;
+}
+#footer {
+    background-color:brown;
+    bottom: 0;
+    position: fixed;
+    color: cornsilk;
+    width: 100%;
+    line-height: 2;
+    font-size: medium;
+}
+body {
+    background-color: rgb(251, 155, 37);
+}
+canvas {
+    border: 3px dashed black;
+    box-shadow: 0px 0px 15px 5px rgb(255, 71, 246);
+}
